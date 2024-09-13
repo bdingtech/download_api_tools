@@ -46,3 +46,4 @@
 [13-09-24 18:41:16][uvicorn.access][INFO] 172.17.0.4:46192 - "GET /extract_info?url=https://www.youtube.com/watch?v=N14VEQ8nTsI HTTP/1.1" 200
 [13-09-24 18:41:23][uvicorn.access][INFO] 172.17.0.4:53764 - "GET /extract_info?url=https://www.youtube.com/watch?v=N14VEQ8nTsI HTTP/1.1" 200
 [13-09-24 18:41:42][uvicorn.access][INFO] 172.17.0.4:33152 - "GET /extract_info?url=https://www.youtube.com/watch?v=m4KJNjhUQ5c HTTP/1.1" 200
+[13-09-24 18:48:59][uvicorn.access][INFO] 172.17.0.4:32950 - "GET /extract_info?url=https://www.youtube.com/watch?v=m4KJNjhUQ5c HTTP/1.1" 200
