@@ -6,7 +6,7 @@
 ## 使用方法
 
 ### 端口
-api的内部端口是3000
+端口是3000
 
 ### Docker-compose
 只需将docker-compose.yml文件复制到您想要的位置，然后启动此命令：
@@ -14,7 +14,7 @@ api的内部端口是3000
 > docker-compose pull # 拉取最新的镜像
 > 
 > docker-compose up # 启动容器
-
+> 
 > docker-compose down # 停止容器
 
 ### 示例
