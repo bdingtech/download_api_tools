@@ -1,0 +1,129 @@
+18:32:32 Worker rq:worker:ae449d4141da4f82bef8eb7a186c42d3 started with PID 48, version 1.16.2
+18:32:32 Subscribing to channel rq:pubsub:ae449d4141da4f82bef8eb7a186c42d3
+18:32:32 *** Listening on ydl_api_ng...
+18:32:32 Cleaning registries for queue: ydl_api_ng
+18:32:32 Worker rq:worker:3a0963d24b49415c9017e5d1f1e29934 started with PID 52, version 1.16.2
+18:32:32 Subscribing to channel rq:pubsub:3a0963d24b49415c9017e5d1f1e29934
+18:32:32 *** Listening on ydl_api_ng...
+18:32:32 Cleaning registries for queue: ydl_api_ng
+18:32:32 Worker rq:worker:707f4ed26ffd4cda952d5a70a413e103 started with PID 51, version 1.16.2
+18:32:32 Subscribing to channel rq:pubsub:707f4ed26ffd4cda952d5a70a413e103
+18:32:32 *** Listening on ydl_api_ng...
+18:32:32 Cleaning registries for queue: ydl_api_ng
+18:32:32 Worker rq:worker:1796d6ead5524ee5b1dbd26557ccd5e0 started with PID 49, version 1.16.2
+18:32:32 Subscribing to channel rq:pubsub:1796d6ead5524ee5b1dbd26557ccd5e0
+18:32:32 Worker rq:worker:832a32c566ec423b986a6c66b1d04705 started with PID 50, version 1.16.2
+18:32:32 Subscribing to channel rq:pubsub:832a32c566ec423b986a6c66b1d04705
+18:32:32 *** Listening on ydl_api_ng...
+18:32:32 Cleaning registries for queue: ydl_api_ng
+18:32:32 *** Listening on ydl_api_ng...
+18:33:40 Worker rq:worker:0ba24b78586940c9aaec1d9f822d8bbe started with PID 49, version 1.16.2
+18:33:40 Subscribing to channel rq:pubsub:0ba24b78586940c9aaec1d9f822d8bbe
+18:33:40 Worker rq:worker:2ce335e65eb94d57be81b382b7b6a4a5 started with PID 46, version 1.16.2
+18:33:40 Subscribing to channel rq:pubsub:2ce335e65eb94d57be81b382b7b6a4a5
+18:33:40 *** Listening on ydl_api_ng...
+18:33:40 *** Listening on ydl_api_ng...
+18:33:40 Cleaning registries for queue: ydl_api_ng
+18:33:40 Worker rq:worker:51c3c5dc3bb44e4493d15fcb1f933f05 started with PID 47, version 1.16.2
+18:33:40 Subscribing to channel rq:pubsub:51c3c5dc3bb44e4493d15fcb1f933f05
+18:33:40 Worker rq:worker:fe624d5bd8204f1db75a046c87b12568 started with PID 48, version 1.16.2
+18:33:40 Subscribing to channel rq:pubsub:fe624d5bd8204f1db75a046c87b12568
+18:33:40 *** Listening on ydl_api_ng...
+18:33:40 Cleaning registries for queue: ydl_api_ng
+18:33:40 Worker rq:worker:0dfd914d8d7047d1820ba85d9c300cde started with PID 50, version 1.16.2
+18:33:40 Subscribing to channel rq:pubsub:0dfd914d8d7047d1820ba85d9c300cde
+18:33:40 *** Listening on ydl_api_ng...
+18:33:40 *** Listening on ydl_api_ng...
+18:33:40 Cleaning registries for queue: ydl_api_ng
+18:38:00 Worker rq:worker:3d9db9d35c1a49048676f22a3c0052f1 started with PID 32, version 1.16.2
+18:38:00 Subscribing to channel rq:pubsub:3d9db9d35c1a49048676f22a3c0052f1
+18:38:00 *** Listening on ydl_api_ng...
+18:38:00 Cleaning registries for queue: ydl_api_ng
+18:38:00 Worker rq:worker:a5e2efeb8be34345a5871d11b6c456b2 started with PID 33, version 1.16.2
+18:38:00 Subscribing to channel rq:pubsub:a5e2efeb8be34345a5871d11b6c456b2
+18:38:00 *** Listening on ydl_api_ng...
+18:38:00 Worker rq:worker:45efc17e905a425bb2228510f2841534 started with PID 36, version 1.16.2
+18:38:00 Subscribing to channel rq:pubsub:45efc17e905a425bb2228510f2841534
+18:38:00 Cleaning registries for queue: ydl_api_ng
+18:38:00 *** Listening on ydl_api_ng...
+18:38:00 Worker rq:worker:0178de303ff145a9a0a3115a8f75e9e6 started with PID 34, version 1.16.2
+18:38:00 Subscribing to channel rq:pubsub:0178de303ff145a9a0a3115a8f75e9e6
+18:38:00 Worker rq:worker:cd9f245d5ac44fa8b0dc0360570a27b6 started with PID 35, version 1.16.2
+18:38:00 Subscribing to channel rq:pubsub:cd9f245d5ac44fa8b0dc0360570a27b6
+18:38:00 *** Listening on ydl_api_ng...
+18:38:00 *** Listening on ydl_api_ng...
+18:38:00 Cleaning registries for queue: ydl_api_ng
+18:38:58 Worker rq:worker:4512d240f578497d89c01770b799f86a started with PID 47, version 1.16.2
+18:38:58 Subscribing to channel rq:pubsub:4512d240f578497d89c01770b799f86a
+18:38:58 *** Listening on ydl_api_ng...
+18:38:58 Cleaning registries for queue: ydl_api_ng
+18:38:58 Worker rq:worker:555169371db14c459402ab7af03cb984 started with PID 48, version 1.16.2
+18:38:58 Subscribing to channel rq:pubsub:555169371db14c459402ab7af03cb984
+18:38:58 Worker rq:worker:345777f494e649ed81484122343a9799 started with PID 50, version 1.16.2
+18:38:58 Subscribing to channel rq:pubsub:345777f494e649ed81484122343a9799
+18:38:58 *** Listening on ydl_api_ng...
+18:38:58 Cleaning registries for queue: ydl_api_ng
+18:38:58 *** Listening on ydl_api_ng...
+18:38:58 Worker rq:worker:4c2685fd2f4f491792a1150e85a0fd78 started with PID 49, version 1.16.2
+18:38:58 Subscribing to channel rq:pubsub:4c2685fd2f4f491792a1150e85a0fd78
+18:38:58 Worker rq:worker:aecd2de609f04941816502408a2059fa started with PID 46, version 1.16.2
+18:38:58 Subscribing to channel rq:pubsub:aecd2de609f04941816502408a2059fa
+18:38:58 Cleaning registries for queue: ydl_api_ng
+18:38:58 *** Listening on ydl_api_ng...
+18:38:58 *** Listening on ydl_api_ng...
+18:38:58 Cleaning registries for queue: ydl_api_ng
+18:39:55 Worker rq:worker:b8921cbeafc54467a751d80edc1e7d10 started with PID 47, version 1.16.2
+18:39:55 Subscribing to channel rq:pubsub:b8921cbeafc54467a751d80edc1e7d10
+18:39:55 Worker rq:worker:35a88caebe324f77b4f0b3e3c961bbdb started with PID 46, version 1.16.2
+18:39:55 *** Listening on ydl_api_ng...
+18:39:55 Subscribing to channel rq:pubsub:35a88caebe324f77b4f0b3e3c961bbdb
+18:39:55 Cleaning registries for queue: ydl_api_ng
+18:39:55 *** Listening on ydl_api_ng...
+18:39:55 Worker rq:worker:179fd5b6e3814e718d5de73fb8f4d463 started with PID 48, version 1.16.2
+18:39:55 Subscribing to channel rq:pubsub:179fd5b6e3814e718d5de73fb8f4d463
+18:39:55 *** Listening on ydl_api_ng...
+18:39:55 Cleaning registries for queue: ydl_api_ng
+18:39:55 Worker rq:worker:4439faf8d98b40c685792d8b3de640db started with PID 50, version 1.16.2
+18:39:55 Subscribing to channel rq:pubsub:4439faf8d98b40c685792d8b3de640db
+18:39:55 Worker rq:worker:89cc4971eb7d4e6fa89c3a14365c7d5b started with PID 49, version 1.16.2
+18:39:55 Subscribing to channel rq:pubsub:89cc4971eb7d4e6fa89c3a14365c7d5b
+18:39:55 *** Listening on ydl_api_ng...
+18:39:55 Cleaning registries for queue: ydl_api_ng
+18:39:55 *** Listening on ydl_api_ng...
+18:40:17 Worker rq:worker:64ad065f5fb843a9b340301b6f7e7737 started with PID 46, version 1.16.2
+18:40:17 Subscribing to channel rq:pubsub:64ad065f5fb843a9b340301b6f7e7737
+18:40:17 Worker rq:worker:6e1beb2809c04b8fb9f43519c4551b43 started with PID 47, version 1.16.2
+18:40:17 Subscribing to channel rq:pubsub:6e1beb2809c04b8fb9f43519c4551b43
+18:40:17 Worker rq:worker:59d4cfcb3d4f4ec88a77d0ebfb7a414f started with PID 48, version 1.16.2
+18:40:17 Subscribing to channel rq:pubsub:59d4cfcb3d4f4ec88a77d0ebfb7a414f
+18:40:17 *** Listening on ydl_api_ng...
+18:40:17 Cleaning registries for queue: ydl_api_ng
+18:40:17 *** Listening on ydl_api_ng...
+18:40:17 *** Listening on ydl_api_ng...
+18:40:17 Worker rq:worker:f880b8130f204910b0cedd792e69d8c6 started with PID 49, version 1.16.2
+18:40:17 Subscribing to channel rq:pubsub:f880b8130f204910b0cedd792e69d8c6
+18:40:17 *** Listening on ydl_api_ng...
+18:40:17 Cleaning registries for queue: ydl_api_ng
+18:40:17 Worker rq:worker:c01c89162a794e37a02e67725ccaeea1 started with PID 50, version 1.16.2
+18:40:17 Subscribing to channel rq:pubsub:c01c89162a794e37a02e67725ccaeea1
+18:40:17 *** Listening on ydl_api_ng...
+18:40:17 Cleaning registries for queue: ydl_api_ng
+18:41:10 Worker rq:worker:6da4d8fd16d8473392d2e1ed264f1669 started with PID 49, version 1.16.2
+18:41:10 Subscribing to channel rq:pubsub:6da4d8fd16d8473392d2e1ed264f1669
+18:41:10 *** Listening on ydl_api_ng...
+18:41:10 Cleaning registries for queue: ydl_api_ng
+18:41:10 Worker rq:worker:4105536d88ad49378b321db687c1e780 started with PID 46, version 1.16.2
+18:41:10 Subscribing to channel rq:pubsub:4105536d88ad49378b321db687c1e780
+18:41:10 Worker rq:worker:b555ca617b9241d7adb65d59a4085ea7 started with PID 47, version 1.16.2
+18:41:10 Subscribing to channel rq:pubsub:b555ca617b9241d7adb65d59a4085ea7
+18:41:10 *** Listening on ydl_api_ng...
+18:41:10 *** Listening on ydl_api_ng...
+18:41:10 Cleaning registries for queue: ydl_api_ng
+18:41:10 Worker rq:worker:41e746b823354de1a54c012f14112890 started with PID 48, version 1.16.2
+18:41:10 Subscribing to channel rq:pubsub:41e746b823354de1a54c012f14112890
+18:41:10 *** Listening on ydl_api_ng...
+18:41:10 Cleaning registries for queue: ydl_api_ng
+18:41:10 Worker rq:worker:1ec7add4cabe4fcaaff39bd85cc0f5b7 started with PID 50, version 1.16.2
+18:41:10 Subscribing to channel rq:pubsub:1ec7add4cabe4fcaaff39bd85cc0f5b7
+18:41:10 *** Listening on ydl_api_ng...
+18:41:10 Cleaning registries for queue: ydl_api_ng

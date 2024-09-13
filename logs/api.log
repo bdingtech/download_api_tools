@@ -1,0 +1,48 @@
+[13-09-24 18:32:31][config_manager][INFO] Logger initialized
+[13-09-24 18:32:31][root][INFO] Container build date : 2024-06-28T20:19:22.365Z, git revision : main - 1e8330eea176cc6947f1b381ed77d785eb313f27
+[13-09-24 18:32:31][uvicorn.error][INFO] Started server process [40]
+[13-09-24 18:32:31][uvicorn.error][INFO] Waiting for application startup.
+[13-09-24 18:32:31][uvicorn.error][INFO] Application startup complete.
+[13-09-24 18:32:31][uvicorn.error][INFO] Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+[13-09-24 18:33:39][config_manager][INFO] Logger initialized
+[13-09-24 18:33:39][root][INFO] Container build date : 2024-06-28T20:19:22.365Z, git revision : main - 1e8330eea176cc6947f1b381ed77d785eb313f27
+[13-09-24 18:33:39][uvicorn.error][INFO] Started server process [38]
+[13-09-24 18:33:39][uvicorn.error][INFO] Waiting for application startup.
+[13-09-24 18:33:39][uvicorn.error][INFO] Application startup complete.
+[13-09-24 18:33:39][uvicorn.error][INFO] Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+[13-09-24 18:35:22][uvicorn.access][INFO] 172.17.0.1:44826 - "GET / HTTP/1.1" 404
+[13-09-24 18:35:22][uvicorn.access][INFO] 172.17.0.1:44826 - "GET /favicon.ico HTTP/1.1" 404
+[13-09-24 18:37:59][config_manager][INFO] Logger initialized
+[13-09-24 18:37:59][root][INFO] Container build date : 2024-06-28T20:19:22.365Z, git revision : main - 1e8330eea176cc6947f1b381ed77d785eb313f27
+[13-09-24 18:37:59][uvicorn.error][INFO] Started server process [24]
+[13-09-24 18:37:59][uvicorn.error][INFO] Waiting for application startup.
+[13-09-24 18:37:59][uvicorn.error][INFO] Application startup complete.
+[13-09-24 18:37:59][uvicorn.error][INFO] Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+[13-09-24 18:38:57][config_manager][INFO] Logger initialized
+[13-09-24 18:38:57][root][INFO] Container build date : 2024-06-28T20:19:22.365Z, git revision : main - 1e8330eea176cc6947f1b381ed77d785eb313f27
+[13-09-24 18:38:57][uvicorn.error][INFO] Started server process [38]
+[13-09-24 18:38:57][uvicorn.error][INFO] Waiting for application startup.
+[13-09-24 18:38:57][uvicorn.error][INFO] Application startup complete.
+[13-09-24 18:38:57][uvicorn.error][INFO] Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+[13-09-24 18:39:54][config_manager][INFO] Logger initialized
+[13-09-24 18:39:54][root][INFO] Container build date : 2024-06-28T20:19:22.365Z, git revision : main - 1e8330eea176cc6947f1b381ed77d785eb313f27
+[13-09-24 18:39:54][uvicorn.error][INFO] Started server process [38]
+[13-09-24 18:39:54][uvicorn.error][INFO] Waiting for application startup.
+[13-09-24 18:39:54][uvicorn.error][INFO] Application startup complete.
+[13-09-24 18:39:54][uvicorn.error][INFO] Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+[13-09-24 18:40:17][config_manager][INFO] Logger initialized
+[13-09-24 18:40:17][root][INFO] Container build date : 2024-06-28T20:19:22.365Z, git revision : main - 1e8330eea176cc6947f1b381ed77d785eb313f27
+[13-09-24 18:40:17][uvicorn.error][INFO] Started server process [38]
+[13-09-24 18:40:17][uvicorn.error][INFO] Waiting for application startup.
+[13-09-24 18:40:17][uvicorn.error][INFO] Application startup complete.
+[13-09-24 18:40:17][uvicorn.error][INFO] Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+[13-09-24 18:41:09][config_manager][INFO] Logger initialized
+[13-09-24 18:41:09][root][INFO] Container build date : 2024-06-28T20:19:22.365Z, git revision : main - 1e8330eea176cc6947f1b381ed77d785eb313f27
+[13-09-24 18:41:09][uvicorn.error][INFO] Started server process [38]
+[13-09-24 18:41:09][uvicorn.error][INFO] Waiting for application startup.
+[13-09-24 18:41:09][uvicorn.error][INFO] Application startup complete.
+[13-09-24 18:41:09][uvicorn.error][INFO] Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+[13-09-24 18:41:14][uvicorn.access][INFO] 172.17.0.4:46178 - "GET /extract_info?url=https://www.youtube.com/watch?v=N14VEQ8nTsI HTTP/1.1" 200
+[13-09-24 18:41:16][uvicorn.access][INFO] 172.17.0.4:46192 - "GET /extract_info?url=https://www.youtube.com/watch?v=N14VEQ8nTsI HTTP/1.1" 200
+[13-09-24 18:41:23][uvicorn.access][INFO] 172.17.0.4:53764 - "GET /extract_info?url=https://www.youtube.com/watch?v=N14VEQ8nTsI HTTP/1.1" 200
+[13-09-24 18:41:42][uvicorn.access][INFO] 172.17.0.4:33152 - "GET /extract_info?url=https://www.youtube.com/watch?v=m4KJNjhUQ5c HTTP/1.1" 200
